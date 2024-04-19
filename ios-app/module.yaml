@@ -1,0 +1,9 @@
+product: ios/app
+
+settings:
+    compose: enabled
+    ios:
+        teamId: myteamid
+
+dependencies:
+    - ../compose-app

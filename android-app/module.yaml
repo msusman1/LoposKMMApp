@@ -1,0 +1,11 @@
+product: android/app
+
+settings:
+    android:
+        minSdk: 24
+    compose: enabled
+
+dependencies:
+    - androidx.activity:activity-compose:1.8.2
+    - androidx.appcompat:appcompat:1.6.1
+    - ../compose-app
